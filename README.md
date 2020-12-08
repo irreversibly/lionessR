@@ -7,7 +7,7 @@ The easiest way to install the R package lionessR is via the devtools package fr
 ```
 install.packages("devtools")
 library(devtools)
-devtools::install_github("mararie/lionessR")
+devtools::install_github("kuijjerlab/lionessR")
 ```
 And then load the package using: ```library(lionessR)```.
 
